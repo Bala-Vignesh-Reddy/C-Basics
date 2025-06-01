@@ -1,0 +1,15 @@
+# Exercise 1-6
+
+Verify that the expression getchar() != EOF is 0 or 1.
+
+## Solution
+The solution demonstrates the getchar() != EOF always return 0 or 1.
+
+## How to Run
+```bash
+gcc solution.c -o solution
+./solution
+```
+
+## Expected output
+getchar() will be read and if any character is entered the output will be 1 else 0.
